@@ -57,6 +57,7 @@ I learned the importance of accessibility and applied:
 ### 5. Blog Type Chosen
 The blog is a **tutorial / learning blog**, inspired by the “Stand Blog” reference layout.  
 Its purpose is to document learning about **HTML5, semantic structure and accessibility**.
+
 ---
 
 ##  Outcome
