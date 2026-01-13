@@ -121,7 +121,7 @@ body {
   border-radius: 12px;
 }
 
-/* SIDE IMAGE (ABOVE) */
+/* SIDE IMAGE */
 .side-image {
     position: relative;
   grid-area: side-image;
