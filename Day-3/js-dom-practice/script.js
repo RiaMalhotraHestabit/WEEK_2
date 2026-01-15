@@ -29,9 +29,9 @@ faqList.innerHTML = faqs
   )
   .join("");
 
-  //Event listeners 
+//Event listeners 
 
-const faqItems = document.querySelectorAll(".faq");   
+const faqItems = document.querySelectorAll(".faq");
 
 faqItems.forEach(item => {
   item.querySelector(".faq-question").addEventListener("click", () => {
