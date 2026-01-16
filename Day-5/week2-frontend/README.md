@@ -6,6 +6,8 @@ It fetches real product data from an external API and displays it in a responsiv
 
 This project is part of Day-5 (Capstone UI + JS Project) of my frontend learning journey.
 
+---
+
 ## Features Implemented
 
 - Fetch products using Fetch API
