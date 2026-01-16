@@ -51,21 +51,43 @@ https://dummyjson.com/products
 - How to use Fetch API to get data from an external source
 
 - How to render dynamic content using JavaScript
-
+  
 - Using array methods like:
 
 - filter() for search
 
 - sort() for sorting data
-
+  
 - DOM manipulation using:
-
+  
 - document.createElement
-
+  
 - innerHTML
-
+  
 - appendChild
 
 - Building a responsive layout using CSS Grid
 
 - Structuring a frontend project in a clean and scalable way
+
+---
+
+## Output
+
+### Product Listing Page
+
+![Product Listing](screenshots/products.png)
+
+### Search Functionality
+
+![Search](screenshots/search.png)
+
+### Sort by Price (High → Low)
+
+![Sort](screenshots/sort.png)
+
+### Mobile View
+
+![Mobile View](screenshots/mobileView.png)
+
+---
