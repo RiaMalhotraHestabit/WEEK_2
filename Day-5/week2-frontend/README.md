@@ -1,94 +1,69 @@
-Mini E-Commerce Product Listing (Day-5)
-📌 Project Overview
+# Day - 5 Mini E-Commerce Product Listing 
+## Project Overview
 
 This project is a mini e-commerce product listing page built using HTML, CSS, and JavaScript.
 It fetches real product data from an external API and displays it in a responsive UI with search and sort functionality.
 
 This project is part of Day-5 (Capstone UI + JS Project) of my frontend learning journey.
 
-🚀 Features Implemented
+## Features Implemented
 
-Fetch products using Fetch API
+- Fetch products using Fetch API
 
-Display products as dynamic cards
+- Display products as dynamic cards
 
-Product image
+- Product image
 
-Product title
+- Product title
 
-Product price
+- Product price
 
-Search functionality
+- Search functionality
 
-Filter products by title in real time
+- Filter products by title in real time
 
-Sort functionality
+- **Sort functionality:** Sort products by price (High → Low)
 
-Sort products by price (High → Low)
+- **Responsive layout:** Works on desktop and mobile screens
 
-Responsive layout
+---
 
-Works on desktop and mobile screens
+## Tech Stack
 
-🛠️ Tech Stack
+**HTML5** – Page structure
 
-HTML5 – Page structure
+**CSS3** – Layout, Grid, responsiveness
 
-CSS3 – Layout, Grid, responsiveness
+**JavaScript (ES6)** – Fetch API, DOM manipulation, events
 
-JavaScript (ES6) – Fetch API, DOM manipulation, events
-
-🌐 API Used
+## API Used
 
 Dummy Products API
 
 https://dummyjson.com/products
 
-📁 Project Structure
-week2-frontend/
-│
-├── index.html
-├── products.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── products.js
-│
-└── README.md
+---
 
-🖼️ Screenshots
+## What I Learned
 
-📌 Add screenshots after running the project
+- How to use Fetch API to get data from an external source
 
-Example:
+- How to render dynamic content using JavaScript
 
-![Product Listing Page](screenshots/products.png)
+- Using array methods like:
 
+- filter() for search
 
-(You can create a screenshots/ folder and add images later.)
+- sort() for sorting data
 
-📖 What I Learned
+- DOM manipulation using:
 
-How to use Fetch API to get data from an external source
+- document.createElement
 
-How to render dynamic content using JavaScript
+- innerHTML
 
-Using array methods like:
+- appendChild
 
-filter() for search
+- Building a responsive layout using CSS Grid
 
-sort() for sorting data
-
-DOM manipulation using:
-
-document.createElement
-
-innerHTML
-
-appendChild
-
-Building a responsive layout using CSS Grid
-
-Structuring a frontend project in a clean and scalable way
+- Structuring a frontend project in a clean and scalable way
